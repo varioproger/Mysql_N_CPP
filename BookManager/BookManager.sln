@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BookManager", "BookManager\BookManager.vcxproj", "{5EA8920D-C4F6-4852-9039-CF8340189C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA8920D-C4F6-4852-9039-CF8340189C6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5EA8920D-C4F6-4852-9039-CF8340189C6B}.Debug|Win32.Build.0 = Debug|Win32
+		{5EA8920D-C4F6-4852-9039-CF8340189C6B}.Release|Win32.ActiveCfg = Release|Win32
+		{5EA8920D-C4F6-4852-9039-CF8340189C6B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F24968F-4A9E-4163-9F86-D3D87020AB91}
+	EndGlobalSection
+EndGlobal
